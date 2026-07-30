@@ -1,4 +1,4 @@
-<img width="100%" alt="Hedayet Banner" src="https://github.com/user-attachments/assets/a0fd7216-dae0-4f4c-8b72-50b7658e1f89" />
+<img width="1672" height="941" alt="Banner Hedayet" src="https://github.com/user-attachments/assets/c9ed0a18-0dfd-4a27-b7ad-7db43786600c" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
