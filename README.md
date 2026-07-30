@@ -7,16 +7,16 @@
 </h1>
 
 <div align="center">
-  <strong>Learning Full Stack Web Development with Programming Hero 👋 | Expert in JavaScript, React.js, React Native & Currently learning Next.js, TypeScript, Node.js | Building Responsive Websites... 💡</strong>
+  <strong>Learning Full Stack Web Development with Programming Hero 👋 | Expert in JavaScript, Next.js, React.js, & Currently learning TypeScript, Node.js | Building Responsive Websites... 💡</strong>
 </div>
 
 <br />
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** [Degitools Platform Assignment](https://degitools-platfrom-assignment-6.netlify.app/)
+- 🔭 **Currently working on:** [StartupForge](https://startupforge-client-tan.vercel.app/)
 - 🌱 **Learning:** Modern Web Frameworks & Libraries
-- 💬 **Ask me about:** React, Vue, Vite, JavaScript
+- 💬 **Ask me about:** React, Next.js, Vue JavaScript
 - 📫 **How to reach me:** [uhedayet756@gmail.com](mailto:uhedayet756@gmail.com)
 
 ---
