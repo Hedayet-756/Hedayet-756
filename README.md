@@ -65,4 +65,6 @@ const hedayetUllah = {
   challenge: "I am doing the #100DaysOfCode challenge focused on Next.js and JavaScript"
 };
 
-\\\![Hedayet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedayet-756&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hedayet-756&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
