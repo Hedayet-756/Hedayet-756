@@ -2,69 +2,119 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Hedayet+Ullah...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Hedayet+Ullah;Junior+Frontend+Developer;Building+Modern+Web+Experiences&center=true&size=30">
   </a>
 </h1>
 
 <div align="center">
-  <strong>Learning Full Stack Web Development with Programming Hero 👋 | Expert in JavaScript, Next.js, React.js, & Currently learning TypeScript, Node.js | Building Responsive Websites... 💡</strong>
+  <strong>
+    Junior Frontend Developer | React.js | Next.js | JavaScript | TypeScript
+  </strong>
 </div>
 
 <br />
 
-### 🚀 About Me
+### 👋 About Me
+
+I'm Hedayet Ullah, a Junior Frontend Developer focused on building
+responsive, interactive, and user-friendly web applications.
+
+I work mainly with React.js and Next.js, with a focus on clean UI,
+practical user experiences, and maintainable code.
 
 - 🔭 **Currently working on:** [StartupForge](https://startupforge-client-tan.vercel.app/)
-- 🌱 **Learning:** Modern Web Frameworks & Libraries
-- 💬 **Ask me about:** React, Next.js, Vue JavaScript
-- 📫 **How to reach me:** [uhedayet756@gmail.com](mailto:uhedayet756@gmail.com)
+- 🌱 **Currently learning:** TypeScript, Node.js & modern web development
+- 💻 **Main stack:** JavaScript, React.js, Next.js, Tailwind CSS
+- 📫 **Email:** [uhedayet756@gmail.com](mailto:uhedayet756@gmail.com)
 
 ---
 
-### 💻 My Absolute Favorites
-I love exploring new technologies and building cool stuff for the web and mobile.
+### 🚀 What I Build
+
+- Responsive and interactive web applications
+- Modern interfaces with React.js and Next.js
+- REST API integrations
+- Reusable and maintainable frontend components
+- Practical solutions for real-world projects
 
 ---
 
-### 🌐 Connect with me
+### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://linkedin.com/in/hedayet-ullah-a39525313" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  </a>
+
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  </a>
+
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  </a>
+
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  </a>
+
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🔥 Languages, Frameworks & Tools
+### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/hedayet-ullah-a39525313">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Hedayet-756">
+    GitHub
+  </a>
+  &nbsp; • &nbsp;
+  <a href="mailto:uhedayet756@gmail.com">
+    Email
+  </a>
 </p>
 
 ---
 
-### ⚙️ Developer Stats & Info
-
-```javascript
-const hedayetUllah = {
-  pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Next.js", "Node.js", "Styled-Components"],
-  speaker: ["English", "Bangla"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on Next.js and JavaScript"
-};
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hedayet-756&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🚀 **StartupForge** — Startup and opportunity platform
+- 💼 **HireLoop** — Job and recruitment platform
+- 📚 **BookHaven** — Modern book management / reading platform
+
+---
+
+<p align="center">
+  Building, learning, and improving one project at a time.
 </p>
